@@ -1,0 +1,16 @@
+{
+  "name": "geopattern",
+  "version": "1.0.0",
+  "description": "background hash generator api based on geopattern",
+  "main": "index.js",
+  "author": "Davide Merli",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "geopattern": "^1.2.3",
+    "nodemon": "^2.0.18"
+  }
+}
